@@ -126,4 +126,5 @@ Most examples write outputs to local folders that are **not tracked by git**:
 
 ## License
 
-Add your license here.
+This repository is released under the MIT License.
+
